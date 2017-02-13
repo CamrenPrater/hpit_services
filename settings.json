@@ -9,7 +9,7 @@
             "COUCHBASE_HOSTNAME" : "127.0.0.1",
             "COUCHBASE_BUCKET_URI" : "http://127.0.0.1:8091/pools/default/buckets",
             "COUCHBASE_AUTH" : ["Administrator", "Administrator"],
-            "PROJECT_DIR" : "/Users/raymond/Projects/TutorGen/hpit"
+            "PROJECT_DIR" : "/home/ubuntu/hpit_services"
         },
         "server": {
             "HPIT_VERSION" : "(HPIT) Hyper Personalized Intelligent Tutor(version 0.3) - Codename Bahamut",
@@ -19,7 +19,7 @@
             "HPIT_BIND_IP" : "0.0.0.0",
             "HPIT_BIND_PORT" : "8000",
             "HPIT_BIND_ADDRESS" : "0.0.0.0:8000",
-            "PROJECT_DIR" : "/Users/raymond/Projects/TutorGen/hpit",
+            "PROJECT_DIR" : "/home/ubuntu/hpit_services",
             "VENV_DIRNAME" : "env",
 
             "MONGO_DBNAME" : "hpit_development",
