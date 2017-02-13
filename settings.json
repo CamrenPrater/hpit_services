@@ -1,10 +1,10 @@
 {
     "debug": {
         "plugin": {
-            "HPIT_URL_ROOT": "http://localhost:8000",
+            "HPIT_URL_ROOT": "35.164.29.13",
             "DATASHOP_ROOT_URL" : "https://pslcdatashop.web.cmu.edu/services",
             "DATASHOP_SERVICES_URL" : "http://pslc-qa.andrew.cmu.edu/datashop/services",
-            "MONGODB_URI" : "mongodb://localhost:27017/",
+            "MONGODB_URI" : "35.164.29.13/",
             "MONGO_DBNAME" : "hpit",
             "COUCHBASE_HOSTNAME" : "127.0.0.1",
             "COUCHBASE_BUCKET_URI" : "http://127.0.0.1:8091/pools/default/buckets",
